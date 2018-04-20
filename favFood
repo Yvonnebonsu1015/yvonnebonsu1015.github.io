@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> My Favorite Food</title>
+    <meta name = "charset" content = "UFT-8">
+    <meta name = "description" content = "Sample body tags">
+  </head>
+  <body>
+    <h1>My Favorite Food</h1>
+    <ul>
+      <li>Pizza</li>
+      <li>PAsta</li>
+      <li>Ice Cream</li>
+      <li>More food</li>
+     </il
+     
+   </body>
